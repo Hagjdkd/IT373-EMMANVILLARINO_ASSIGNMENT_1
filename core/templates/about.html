@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %}About{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+  <div class="col-lg-8">
+    <div class="card bg-dark text-white border-primary shadow">
+      <div class="card-header border-primary">
+        <h3 class="mb-0">About</h3>
+      </div>
+      <div class="card-body">
+        <p class="lead mb-2">Name: {{ name }}</p>
+        <p class="mb-0">Student ID: {{ student_id }}</p>
+      </div>
+    </div>
+  </div>
+  </div>
+{% endblock %}
+
+
