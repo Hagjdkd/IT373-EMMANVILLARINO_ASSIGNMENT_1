@@ -1,0 +1,14 @@
+Reflection:
+
+
+Setting up the environment was quite a challenge for me at first. I spent two whole days trying to install the virtual environment because I was still getting the hang of it. 
+Searching online didn’t yield much help, but once I got my hands on the PPT guide, everything clicked into place in just 30 minutes as I followed the instructions step by step.
+
+When it came to Django, I found myself a bit lost and ended up installing it multiple times, unsure if it was actually working. 
+I also had a mix-up with the runtime at first, thinking that man+tab was a built-in function, only to discover later that it was just a file in the project folder.
+
+On a brighter note, I managed to grasp setting up a Git remote pretty quickly. 
+I successfully created a working repository on GitHub, which really boosted my confidence in using version control.
+
+All in all, I learned that having clear instructions and the right resources can make a world of difference.
+I also came to realize that making mistakes is just part of the learning journey, and each misstep helped me get a better grip on the tools I was using.
